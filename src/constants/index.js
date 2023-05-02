@@ -172,17 +172,13 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "HooBank",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Simple and beautiful landing page for HooBank",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
       },
       {
         name: "tailwind",
@@ -193,9 +189,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "RoboFriends",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application that enables users to search for job robots, using third library api.",
     tags: [
       {
         name: "react",
@@ -206,12 +202,12 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "css",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "git@github.com:ArafatMamia/Robfriends.git",
   },
   {
     name: "Trip Guide",
