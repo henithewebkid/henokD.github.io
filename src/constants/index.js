@@ -207,7 +207,7 @@ const projects = [
     source_code_link: "https://arafatmamia.github.io/Robfriends/",
   },
   {
-    name: "Nike Shoe",
+    name: "anta",
     description:
       "A comprehensive mobile  platform that allows users to search for a shoes,and  buy what they like",
     tags: [
