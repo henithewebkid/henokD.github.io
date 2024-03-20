@@ -42,7 +42,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Frontend Developer",
+    title: "Front-End Development",
     icon: web,
   },
   {
@@ -50,7 +50,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Back-End Development",
     icon: backend,
   },
   {
@@ -116,24 +116,24 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Dasher Delivery",
+    title: "WordPress and theme Developer (UK)",
+    company_name: "RSOP ",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "Jul 2019- Feb 2021",
+    date: "feb 2022- oct 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed and implemented a custom WordPress plugin, expanding website functionality and enhancing user experience.",
+      "Executed comprehensive optimization strategies to improve the website's SEO performance, resulting in increased visibility and organic traffic growth.",
+      "rovided expert technical support to users of WordPress themes and plugins, ensuring seamless functionality and resolving issues promptly.",
+      "Implemented robust security measures to safeguard the WordPress website, protecting it against potential cyber threats and vulnerabilities.",
     ],
   },
   {
-    title: "Full Stack Developer",
-    company_name: "Freelance",
+    title: "WordPress Developer",
+    company_name: "Chainlinx Technologies",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - current",
+    date: "Jan 2024 - current",
     points: [
       " maintaining the company’s e-commerce website and Created additional corporate revenue stream by designing, developing and maintaining the company’s Ecommerce website.",
     ],
