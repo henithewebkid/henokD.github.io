@@ -30,7 +30,7 @@ const Navbar = () => {
       className={`${
         styles.paddingX
       } w-full flex items-center py-5 fixed top-0 z-20 ${
-        scrolled ? "bg-primary" : "bg-transparent"
+        scrolled ? "bg-tertiary" : "bg-transparent "
       }`}
     >
       <div className="w-full flex justify-between items-center max-w-7xl mx-auto">
@@ -43,7 +43,7 @@ const Navbar = () => {
           }}
         >
           <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
-          <p className="text-white text-[18px] font-bold cursor-pointer flex ">
+          <p className="text-[#915EFF] text-[18px] font-bold cursor-pointer flex ">
             Arafat &nbsp;
             <span className="sm:block hidden"> | Full Stack Expert</span>
           </p>
@@ -54,7 +54,7 @@ const Navbar = () => {
             <li
               key={nav.id}
               className={`${
-                active === nav.title ? "text-white" : "text-secondary"
+                active === nav.title ? "text-primary" : "text-[#915EFF] "
               } hover:text-white text-[18px] font-medium cursor-pointer`}
               onClick={() => setActive(nav.title)}
             >
@@ -81,7 +81,7 @@ const Navbar = () => {
                 <li
                   key={nav.id}
                   className={`font-poppins font-medium cursor-pointer text-[16px] ${
-                    active === nav.title ? "text-white" : "text-secondary"
+                    active === nav.title ? "text-[#915EFF] " : "text-primary"
                   }`}
                   onClick={() => {
                     setToggle(!toggle);

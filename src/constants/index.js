@@ -23,6 +23,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  carrent2,
 } from "../assets";
 
 export const navLinks = [
@@ -118,7 +119,7 @@ const experiences = [
   {
     title: "WordPress and theme Developer (UK)",
     company_name: "RSOP ",
-    icon: starbucks,
+    icon: tesla,
     iconBg: "#383E56",
     date: "feb 2022- oct 2023",
     points: [
@@ -131,11 +132,13 @@ const experiences = [
   {
     title: "WordPress Developer",
     company_name: "Chainlinx Technologies",
-    icon: tesla,
+    icon: starbucks,
     iconBg: "#E6DEDD",
     date: "Jan 2024 - current",
     points: [
-      " maintaining the company’s e-commerce website and Created additional corporate revenue stream by designing, developing and maintaining the company’s Ecommerce website.",
+      " Customized and optimized the different theme to enhance website performance, resulting in a substantial 20% surge in traffic.",
+      " Developed and integrated custom PHP functionalities within the different theme to improve website security, ensuring robust protection against potential cyber threats.",
+      "Implemented SEO best practices within the different theme, leading to a significant 10% increase in organic traffic.",
     ],
   },
 ];
@@ -152,7 +155,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Arafat does.",
     name: "Muhammed Nageso",
     designation: "COO",
     company: "Alfa Corp",
@@ -160,7 +163,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Arafat optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "yigezu bash",
     designation: "CTO",
     company: "456 Enterprises",
@@ -170,32 +173,33 @@ const testimonials = [
 
 const projects = [
   {
-    name: "HooBank",
-    description: "Simple and beautiful landing page for HooBank",
+    name: "Royale School Of Photography",
+    description:
+      "Royale School Of Photography is your gateway to mastering photography skills.  platform offers diverse courses, workshops, and resources for all levels. Explore detailed course descriptions, instructor profiles, and student testimonials. unleash your creativity and excel in photography.",
     tags: [
       {
-        name: "react",
+        name: "wordpress",
         color: "blue-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "ecommerce",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://hoobanklandingpagesite.netlify.app/",
+    source_code_link: "https://www.rsop.co.uk/",
   },
   {
-    name: "RoboFriends",
+    name: "wysemonk rebuild",
     description:
-      "Web application that enables users to search for robots, using third library api.",
+      "website developer company crafts custom websites for businesses, blending creativity with technical expertise and  collaborate closely with clients to understand their vision and goals, ensuring every website is functional, secure, and optimized. Stay ahead with  cutting-edge solutions and elevate online presence today.",
     tags: [
       {
-        name: "react",
+        name: "wordpress",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "eccommerce",
         color: "green-text-gradient",
       },
       {
@@ -204,15 +208,15 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://arafatmamia.github.io/Robfriends/",
+    source_code_link: "https://wysemonk.com/",
   },
   {
-    name: "anta",
+    name: "wysemonk",
     description:
-      "A comprehensive mobile  platform that allows users to search for a shoes,and  buy what they like",
+      "website developer company crafts custom websites for businesses, blending creativity with technical expertise and  collaborate closely with clients to understand their vision and goals, ensuring every website is functional, secure, and optimized. Stay ahead with  cutting-edge solutions and elevate online presence today.",
     tags: [
       {
-        name: "React native",
+        name: "wordpress",
         color: "blue-text-gradient",
       },
       {
@@ -221,7 +225,28 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/ArafatMamia/nike-clone",
+    source_code_link: "https://rebuild.wysemonk.com/",
+  },
+  {
+    name: "audio books",
+    description:
+      "Dive into a world of captivating stories with vast audiobook collection. From fiction to self-help, find something for every interest. Professional narrators bring characters to life, enriching listening experience. Explore and expand your horizons today...",
+    tags: [
+      {
+        name: "wordpress",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "eccommerce",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: carrent2,
+    source_code_link: "https://voice.wysemonk.com/",
   },
 ];
 

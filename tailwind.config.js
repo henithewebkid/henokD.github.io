@@ -3,9 +3,12 @@ export const mode = "jit";
 export const theme = {
   extend: {
     colors: {
-      primary: "#050816",
-      secondary: "#aaa6c3",
-      tertiary: "#151030",
+      // primary: "#050816",
+      primary: "#fafafa",
+      // secondary: "#aaa6c3",
+      secondary: "#000000",
+      // tertiary: "#151030",
+      tertiary: "#0B1A38",
       "black-100": "#100d25",
       "black-200": "#090325",
       "white-100": "#f3f3f3",
@@ -17,7 +20,7 @@ export const theme = {
       xs: "450px",
     },
     backgroundImage: {
-      "hero-pattern": "url('/src/assets/herobg.png')",
+      "hero-pattern": "url('./src/assets/bghero.webp')",
     },
   },
 };
