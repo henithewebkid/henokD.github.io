@@ -47,11 +47,10 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a full stack developer with experience in TypeScript and JavaScript,
-        specializing in frameworks like React, Node.js, and Three.js. I'm also a
-        quick learner and enjoy collaborating closely with clients to create
-        efficient, scalable, and user-friendly solutions that address real-world
-        problems. Let's work together to bring your ideas to life!
+        I create and build websites characterized by their beauty, user-friendly interface, and accessibility.
+I’ve been developing websites for over 5 years and have shared successes with companies of all sizes. Throughout the years I’ve worked both freelance and a couple “real jobs” building websites from a desk, nine-to-five… I’ve designed, developed, and deployed customized web-based solutions for mom-and-pop shops all the way up to publicly traded companies. No project is too big, or too small. Let’s get started on yours today!
+
+Proficient in HTML, CSS, and JavaScript & PhP, i create custom themes and plugins to meet client needs
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

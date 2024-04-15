@@ -44,7 +44,7 @@ const Navbar = () => {
         >
           <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
           <p className="text-[#915EFF] text-[18px] font-bold cursor-pointer flex ">
-            Arafat &nbsp;
+            Henok &nbsp;
             <span className="sm:block hidden"> | Full Stack Expert</span>
           </p>
         </Link>
