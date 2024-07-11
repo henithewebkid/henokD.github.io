@@ -24,6 +24,8 @@ import {
   tripguide,
   threejs,
   carrent2,
+  kodiprefessional,
+  hemophilia,
 } from "../assets";
 
 export const navLinks = [
@@ -210,11 +212,11 @@ const projects = [
     image: jobit,
     source_code_link: "https://wysemonk.com/",
   },
- 
+
   {
-    name: "audio books",
+    name: "Kodiprofessional",
     description:
-      "Dive into a world of captivating stories with vast audiobook collection. From fiction to self-help, find something for every interest. Professional narrators bring characters to life, enriching listening experience. Explore and expand your horizons today...",
+      "Explore Dubai's premier WooCommerce website, offering a curated selection of luxury products and services, blending traditional charm with modern convenience.",
     tags: [
       {
         name: "wordpress",
@@ -229,8 +231,29 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent2,
-    source_code_link: "https://voice.wysemonk.com/",
+    image: kodiprefessional,
+    source_code_link: "https://kodiprofessional.ae/",
+  },
+  {
+    name: "hemophilia",
+    description:
+      "Discover the comprehensive Hemophilia resource website, providing essential information, support, and community for those affected by the condition",
+    tags: [
+      {
+        name: "wordpress",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "eccommerce",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: hemophilia,
+    source_code_link: "https://hemophilia.et/",
   },
 ];
 

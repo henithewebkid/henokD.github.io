@@ -30,6 +30,8 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import carrent2 from "./carrent2.png";
+import kodiprefessional from "./tech/kodiprofessional.png";
+import hemophilia from "./tech/hemophilia.png";
 
 export {
   logo,
@@ -60,5 +62,7 @@ export {
   carrent,
   jobit,
   tripguide,
-  carrent2
+  carrent2,
+  kodiprefessional,
+  hemophilia,
 };
