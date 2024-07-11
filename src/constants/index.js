@@ -190,7 +190,7 @@ const projects = [
     source_code_link: "https://www.rsop.co.uk/",
   },
   {
-    name: "wysemonk rebuild",
+    name: "wysemonk ",
     description:
       "website developer company crafts custom websites for businesses, blending creativity with technical expertise and  collaborate closely with clients to understand their vision and goals, ensuring every website is functional, secure, and optimized. Stay ahead with  cutting-edge solutions and elevate online presence today.",
     tags: [
@@ -210,23 +210,7 @@ const projects = [
     image: jobit,
     source_code_link: "https://wysemonk.com/",
   },
-  {
-    name: "wysemonk",
-    description:
-      "website developer company crafts custom websites for businesses, blending creativity with technical expertise and  collaborate closely with clients to understand their vision and goals, ensuring every website is functional, secure, and optimized. Stay ahead with  cutting-edge solutions and elevate online presence today.",
-    tags: [
-      {
-        name: "wordpress",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://rebuild.wysemonk.com/",
-  },
+ 
   {
     name: "audio books",
     description:
