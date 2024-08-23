@@ -84,7 +84,7 @@ const Works = () => {
           projects. Each project is described briefly and includes links to code
           repositories and live demos. These examples demonstrate my ability to
           solve complex problems, work with diverse technologies, and
-          effectively manage projects.
+          effectively manage projects and.
         </motion.p>
       </div>
 
