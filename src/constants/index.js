@@ -148,7 +148,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Arafat proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Henok proved me wrong.",
     name: "Henok Demmise",
     designation: "web Admin",
     company: "Rainbow Foam and plastic plc",
@@ -157,7 +157,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Arafat does.",
+      "I've never met a web developer who truly cares about their clients' success like Henok does.",
     name: "Muhammed Nageso",
     designation: "COO",
     company: "Alfa Corp",
@@ -165,7 +165,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Arafat optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Henok optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "yigezu bash",
     designation: "CTO",
     company: "456 Enterprises",

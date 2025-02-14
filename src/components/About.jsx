@@ -51,7 +51,7 @@ const About = () => {
         From small businesses to publicly traded companies, I’ve built and deployed customized web solutions that drive success.
 
 Whether working as a freelancer or within established teams, I’ve honed my skills in HTML, CSS, JavaScript, and PHP, developing 
-        custom themes and plugins that enhance functionality and elevate user experience. No project is too big or too small—let’s bring your vision to life today
+        custom themes and plugins that enhance functionality and elevate user experience. No project is too big or too small—let’s bring your vision to life today!
 
  </motion.p>
 
