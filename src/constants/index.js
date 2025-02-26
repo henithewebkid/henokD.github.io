@@ -288,7 +288,7 @@ name: "Loving to Learn- california",
       },
     ],
     image: screen,
-    source_code_link: "https://https://lovingtolearn.biz/",
+    source_code_link: "https://lovingtolearn.biz/",
   },
 
   
