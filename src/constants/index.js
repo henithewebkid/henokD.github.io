@@ -285,7 +285,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: screen,
+    image: demena-pix,
     source_code_link: "https://lovingtolearn.biz/",
   },
 ];
