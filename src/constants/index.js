@@ -268,7 +268,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: demena-pix,
+    image: carrent,
     source_code_link: "https://www.kestedamena.com/",
   },
   {
@@ -285,7 +285,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: demena-pix,
+    image: carrent,
     source_code_link: "https://lovingtolearn.biz/",
   },
 ];
