@@ -270,7 +270,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: demena-pix,
     source_code_link: "https://www.kestedamena.com/",
   },
 
