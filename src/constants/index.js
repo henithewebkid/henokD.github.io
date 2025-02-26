@@ -192,7 +192,7 @@ const projects = [
     source_code_link: "https://www.rsop.co.uk/",
   },
   {
-    name: "financity ",
+    name: "financity Wordpress theme",
     description:
       "a versatile WordPress theme designed for financial businesses, accounting firms, banks, investment companies, and financial advisory services. It's a great choice for building professional websites that require a sleek and modern design with the necessary tools for delivering financial content and services.",
     tags: [
@@ -210,9 +210,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://preview.themeforest.net/item/financity-business-financial-wordpress-theme/full_screen_preview/20757434?_ga=2.29564859.529985063.1740577830-839575337.1740577830",
-  },
-
+    source_code_link: "https://themeforest.net/item/financity-business-financial-wordpress-theme/20757434",
   {
     name: "Kodiprofessional",
     description:
