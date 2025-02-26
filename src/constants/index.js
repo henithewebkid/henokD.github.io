@@ -275,6 +275,25 @@ const projects = [
   },
 
 
+name: "Loving to Learn- california",
+    description:
+      "A Community Resource/Referral Agency
+"Helping You Get Answers to Problems in Life!",
+    tags:  [
+      {
+        name: "wordpress",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "ecommerce",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: demena-pix,
+    source_code_link: "https://https://lovingtolearn.biz/",
+  },
+
+  
   
 ];
 
