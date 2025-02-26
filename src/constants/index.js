@@ -257,10 +257,10 @@ const projects = [
   },
 
 {
-    name: "keste Damena lifestyle",
+    name: "Keste Damena Shop",
     description:
-      "Keste Damena – Your One-Stop E-Commerce Destination for Quality & Comforttags:
-      tags: [
+      "Keste Damena – Your One-Stop E-Commerce Destination for Quality & Comfort",
+    tags:  [
       {
         name: "wordpress",
         color: "blue-text-gradient",
