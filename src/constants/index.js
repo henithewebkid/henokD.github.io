@@ -127,7 +127,7 @@ const experiences = [
     points: [
       "Developed and implemented a custom WordPress plugin, expanding website functionality and enhancing user experience.",
       "Executed comprehensive optimization strategies to improve the website's SEO performance, resulting in increased visibility and organic traffic growth.",
-      "rovided expert technical support to users of WordPress themes and plugins, ensuring seamless functionality and resolving issues promptly.",
+      "Provided expert technical support to users of WordPress themes and plugins, ensuring seamless functionality and resolving issues promptly.",
       "Implemented robust security measures to safeguard the WordPress website, protecting it against potential cyber threats and vulnerabilities.",
     ],
   },
@@ -138,8 +138,8 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2024 - current",
     points: [
-      " Customized and optimized the different theme to enhance website performance, resulting in a substantial 20% surge in traffic.",
-      " Developed and integrated custom PHP functionalities within the different theme to improve website security, ensuring robust protection against potential cyber threats.",
+      "Customized and optimized the different theme to enhance website performance, resulting in a substantial 20% surge in traffic.",
+      "Developed and integrated custom PHP functionalities within the different theme to improve website security, ensuring robust protection against potential cyber threats.",
       "Implemented SEO best practices within the different theme, leading to a significant 10% increase in organic traffic.",
     ],
   },
@@ -177,122 +177,39 @@ const projects = [
   {
     name: "Royale School Of Photography",
     description:
-      "Royale School Of Photography is your gateway to mastering photography skills.  platform offers diverse courses, workshops, and resources for all levels. Explore detailed course descriptions, instructor profiles, and student testimonials. unleash your creativity and excel in photography.",
+      "Royale School Of Photography is your gateway to mastering photography skills. platform offers diverse courses, workshops, and tools to enhance creativity and techniques.",
     tags: [
       {
         name: "wordpress",
         color: "blue-text-gradient",
       },
       {
-        name: "ecommerce",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: carrent,
-    source_code_link: "https://www.rsop.co.uk/",
-  },
-  {
-    name: "financity Wordpress theme",
-    description:
-      "a versatile WordPress theme designed for financial businesses, accounting firms, banks, investment companies, and financial advisory services. It's a great choice for building professional websites that require a sleek and modern design with the necessary tools for delivering financial content and services.",
-    tags: [
-      {
-        name: "wordpress theme",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "theme development",
+        name: "tailwind",
         color: "green-text-gradient",
       },
       {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://themeforest.net/item/financity-business-financial-wordpress-theme/20757434",
-  {
-    name: "Kodiprofessional",
-    description:
-      "Explore Dubai's premier WooCommerce website, offering a curated selection of luxury products and services, blending traditional charm with modern convenience.",
-    tags: [
-      {
-        name: "wordpress",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "eccommerce",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
+        name: "react",
         color: "pink-text-gradient",
       },
     ],
     image: kodiprefessional,
-    source_code_link: "https://kodiprofessional.ae/",
+    source_code_link: "https://www.royalepreprod.com/",
   },
   {
-    name: "hemophilia",
+    name: "Financity Wordpress Theme",
     description:
-      "Discover the comprehensive Hemophilia resource website, providing essential information, support, and community for those affected by the condition",
+      "Financity is a professional WordPress theme built for financial advisors and consultants. With a clean and modern design, it's perfect for showcasing your services.",
     tags: [
       {
-        name: "wordpress",
+        name: "WordPress",
         color: "blue-text-gradient",
       },
       {
-        name: "eccommerce",
+        name: "PHP",
         color: "green-text-gradient",
       },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
     ],
-    image: hemophilia,
-    source_code_link: "https://hemophilia.et/",
+    image: kodiprefessional,
+    source_code_link: "https://financity.com",
   },
-
-{
-    name: "Keste Damena Shop",
-    description:
-      "Keste Damena – Your One-Stop E-Commerce Destination for Quality & Comfort",
-    tags:  [
-      {
-        name: "wordpress",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "ecommerce",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: demena-pix,
-    source_code_link: "https://www.kestedamena.com/",
-  },
-
-
-name: "Loving to Learn- california",
-    description:
-      "A Community Resource/Referral Agency
-"Helping You Get Answers to Problems in Life!",
-    tags:  [
-      {
-        name: "wordpress",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "ecommerce",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: screen,
-    source_code_link: "https://https://lovingtolearn.biz/",
-  },
-
-  
-  
 ];
-
-export { services, technologies, experiences, testimonials, projects };
