@@ -192,16 +192,16 @@ const projects = [
     source_code_link: "https://www.rsop.co.uk/",
   },
   {
-    name: "wysemonk ",
+    name: "financity ",
     description:
-      "website developer company crafts custom websites for businesses, blending creativity with technical expertise and  collaborate closely with clients to understand their vision and goals, ensuring every website is functional, secure, and optimized. Stay ahead with  cutting-edge solutions and elevate online presence today.",
+      "a versatile WordPress theme designed for financial businesses, accounting firms, banks, investment companies, and financial advisory services. It's a great choice for building professional websites that require a sleek and modern design with the necessary tools for delivering financial content and services.",
     tags: [
       {
-        name: "wordpress",
+        name: "wordpress theme",
         color: "blue-text-gradient",
       },
       {
-        name: "eccommerce",
+        name: "theme development",
         color: "green-text-gradient",
       },
       {
@@ -210,7 +210,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://wysemonk.com/",
+    source_code_link: "https://preview.themeforest.net/item/financity-business-financial-wordpress-theme/full_screen_preview/20757434?_ga=2.29564859.529985063.1740577830-839575337.1740577830",
   },
 
   {
@@ -289,7 +289,7 @@ name: "Loving to Learn- california",
         color: "pink-text-gradient",
       },
     ],
-    image: demena-pix,
+    image: screen,
     source_code_link: "https://https://lovingtolearn.biz/",
   },
 
