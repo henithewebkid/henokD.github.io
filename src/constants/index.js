@@ -255,6 +255,27 @@ const projects = [
     image: hemophilia,
     source_code_link: "https://hemophilia.et/",
   },
+
+{
+    name: "Royale School Of Photography",
+    description:
+      "Royale School Of Photography is your gateway to mastering photography skills.  platform offers diverse courses, workshops, and resources for all levels. Explore detailed course descriptions, instructor profiles, and student testimonials. unleash your creativity and excel in photography.",
+    tags: [
+      {
+        name: "wordpress",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "ecommerce",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: carrent,
+    source_code_link: "https://www.rsop.co.uk/",
+  },
+
+
+  
 ];
 
 export { services, technologies, experiences, testimonials, projects };
