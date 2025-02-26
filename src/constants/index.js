@@ -177,7 +177,7 @@ const projects = [
   {
     name: "Royale School Of Photography",
     description:
-      "Royale School Of Photography is your gateway to mastering photography skills. platform offers diverse courses, workshops, and resources for all levels. Explore detailed course descriptions, instructor profiles, and student testimonials. unleash your creativity and excel in photography.",
+      "Royale School Of Photography is your gateway to mastering photography skills.  platform offers diverse courses, workshops, and resources for all levels. Explore detailed course descriptions, instructor profiles, and student testimonials. unleash your creativity and excel in photography.",
     tags: [
       {
         name: "wordpress",
@@ -211,7 +211,7 @@ const projects = [
     ],
     image: jobit,
     source_code_link: "https://themeforest.net/item/financity-business-financial-wordpress-theme/20757434",
-  },
+    },
   {
     name: "Kodiprofessional",
     description:
@@ -254,7 +254,8 @@ const projects = [
     image: hemophilia,
     source_code_link: "https://hemophilia.et/",
   },
-  {
+
+{
     name: "Keste Damena Shop",
     description:
       "Keste Damena – Your One-Stop E-Commerce Destination for Quality & Comfort",
@@ -271,8 +272,9 @@ const projects = [
     image: demena-pix,
     source_code_link: "https://www.kestedamena.com/",
   },
-  {
-    name: "Loving to Learn- california",
+
+
+name: "Loving to Learn- california",
     description:
       "A Community Resource/Referral Agency Helping You Get Answers to Problems in Life!",
     tags:  [
@@ -286,8 +288,11 @@ const projects = [
       },
     ],
     image: screen,
-    source_code_link: "https://lovingtolearn.biz/",
+     source_code_link: "https://lovingtolearn.biz/",
   },
+
+  
+  
 ];
 
 export { services, technologies, experiences, testimonials, projects }; 
