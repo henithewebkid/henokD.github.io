@@ -211,7 +211,7 @@ const projects = [
     ],
     image: jobit,
     source_code_link: "https://themeforest.net/item/financity-business-financial-wordpress-theme/20757434",
-    },
+  },
   {
     name: "Kodiprofessional",
     description:
@@ -254,12 +254,11 @@ const projects = [
     image: hemophilia,
     source_code_link: "https://hemophilia.et/",
   },
-
-{
+  {
     name: "Keste Damena Shop",
     description:
       "Keste Damena – Your One-Stop E-Commerce Destination for Quality & Comfort",
-    tags:  [
+    tags: [
       {
         name: "wordpress",
         color: "blue-text-gradient",
@@ -272,12 +271,11 @@ const projects = [
     image: demena-pix,
     source_code_link: "https://www.kestedamena.com/",
   },
-
   {
-name: "Loving to Learn- california",
+    name: "Loving to Learn- california",
     description:
       "A Community Resource/Referral Agency Helping You Get Answers to Problems in Life!",
-    tags:  [
+    tags: [
       {
         name: "wordpress",
         color: "blue-text-gradient",
@@ -288,11 +286,9 @@ name: "Loving to Learn- california",
       },
     ],
     image: screen,
-     source_code_link: "https://lovingtolearn.biz/",
+    source_code_link: "https://lovingtolearn.biz/",
   },
-
-  
-  
 ];
+
 
 export { services, technologies, experiences, testimonials, projects }; 
