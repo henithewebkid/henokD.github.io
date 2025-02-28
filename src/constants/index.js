@@ -242,10 +242,7 @@ const projects = [
         name: "wordpress",
         color: "blue-text-gradient",
       },
-      {
-        name: "eccommerce",
-        color: "green-text-gradient",
-      },
+      
       {
         name: "css",
         color: "pink-text-gradient",
