@@ -285,7 +285,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: kodiprefessional,
     source_code_link: "https://lovingtolearn.biz/",
   },
 ];
